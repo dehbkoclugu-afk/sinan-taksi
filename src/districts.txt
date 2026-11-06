@@ -1,0 +1,39 @@
+Adalar|Anadolu|Büyükada, Heybeliada ve Burgazada|Adalar yolculuğunuzu planlarken vapur iskelesine karadan ulaşımı ve ada içi ulaşımı ayrı değerlendirin. Karşılama için kullanacağınız anakara iskelesini belirtin.
+Arnavutköy|Avrupa|İstanbul Havalimanı, Hadımköy ve Bolluca|İstanbul Havalimanı’ndan alınacaksanız terminali ve uçuş numarasını, Hadımköy’den alınacaksanız tesisin giriş kapısını belirtin.
+Ataşehir|Anadolu|Finans Merkezi, İçerenköy ve Küçükbakkalköy|Finans Merkezi veya çevredeki ofislere giderken bina adını ve giriş kapısını adresinize ekleyin.
+Avcılar|Avrupa|Denizköşkler, Ambarlı ve Üniversite Mahallesi|Sahil, kampüs ve metrobüs çevresi farklı buluşma noktalarıdır. Yolculuğa hangi noktadan başlayacağınızı netleştirin.
+Bağcılar|Avrupa|Güneşli, Mahmutbey ve Kirazlı|Güneşli’deki otel veya iş merkezleri için tesis adını, metrodan alımda ise istasyon çıkışını belirtin.
+Bahçelievler|Avrupa|Şirinevler, Yenibosna ve Kocasinan|Şirinevler veya Yenibosna’da ana yolun iki tarafındaki alım noktalarını ayırmak için yön ve yakın bina bilgisi ekleyin.
+Bakırköy|Avrupa|Ataköy, Florya ve Yeşilköy|Marina veya sahil buluşmalarında tesis girişini, trenle gelecekseniz istasyon adını yazın.
+Başakşehir|Avrupa|Kayaşehir, Bahçeşehir ve İkitelli|Şehir hastanesi yolculuklarında blok veya poliklinik girişini, site alımlarında nizamiyeyi belirtin.
+Bayrampaşa|Avrupa|Esenler Otogarı, Kartaltepe ve Yıldırım|Otogarda otobüs firması ve peron bilgisi, yoğun girişler arasında buluşma noktasını netleştirir.
+Beşiktaş|Avrupa|Ortaköy, Levent ve Arnavutköy|Sahil ve Levent arasındaki rotalarda yola çıkış saatini planlayın. Etkinlik günlerinde buluşma adresini önceden belirleyin.
+Beykoz|Anadolu|Kavacık, Paşabahçe ve Polonezköy|Sahil, köprü bağlantısı ve orman güzergâhları birbirinden ayrılır. Özellikle Polonezköy’de konumla birlikte tesis adını yazın.
+Beylikdüzü|Avrupa|Adnan Kahveci, Yakuplu ve Gürpınar|Marina, sahil ve metrobüs çevresini adresinizde ayırın. Site çıkışında blok ve kapı bilgisi ekleyin.
+Beyoğlu|Avrupa|Taksim, Galata ve Karaköy|Yaya ağırlıklı sokaklarda araçla buluşmak için erişilebilir bir cadde veya otel girişini kullanın.
+Büyükçekmece|Avrupa|Mimaroba, Kumburgaz ve TÜYAP çevresi|Fuar günlerinde salon ve ziyaretçi kapısı, sahil rotalarında ise mahalle ve tesis adı önemlidir.
+Çatalca|Avrupa|Ferhatpaşa, İnceğiz ve Binkılıç|Merkez dışındaki alımlarda açık adresle birlikte harita konumu hazırlayın. Dönüş saatinizi de rotaya ekleyin.
+Çekmeköy|Anadolu|Taşdelen, Alemdağ ve Ömerli|Ömerli ve Alemdağ yönündeki yolculuklarda benzer sokak adlarını ayırt etmek için mahalleyi yazın.
+Esenler|Avrupa|Dörtyol, Turgut Reis ve Oruçreis|Esenler’deki mahalle alımlarıyla Bayrampaşa’daki Esenler Otogarı alımlarını ayırmak için açık adres veya peron belirtin.
+Esenyurt|Avrupa|Meydan, Kıraç ve Akbatı çevresi|Kıraç’taki işyeri veya sitelerden alım için kapı adını belirtin. Beylikdüzü yönüne gidiyorsanız metrobüs durağı ile nihai adresi ayırın.
+Eyüpsultan|Avrupa|Alibeyköy, Göktürk ve Kemerburgaz|Alibeyköy Cep Otogarı’ndan alımda giriş yönünü, Göktürk ve Kemerburgaz’da ise açık adresi paylaşmaya hazır edin.
+Fatih|Avrupa|Sultanahmet, Aksaray ve Balat|Tarihi Yarımada’nın dar ve yaya ağırlıklı sokaklarında otel kapısı yerine yakın bir araç buluşma noktası gerekebilir.
+Gaziosmanpaşa|Avrupa|Küçükköy, Karadeniz ve Merkez|Merkez meydanı çevresinde yolun hangi tarafında olduğunuzu yazın. Küçükköy’de mahalle ve sokak bilgisini birlikte kullanın.
+Güngören|Avrupa|Merter, Haznedar ve Tozkoparan|Merter’de mağaza ve iş hanlarının girişleri farklı sokaklarda olabilir. Bina adı ve kapı numarası ekleyin.
+Kadıköy|Anadolu|Moda, Bostancı ve Fenerbahçe|İskele alımlarında hangi vapur iskelesini kullanacağınızı, Bağdat Caddesi çevresinde ise cadde yönünü ve kapı numarasını belirtin.
+Kağıthane|Avrupa|Çağlayan, Seyrantepe ve Hamidiye|Çağlayan Adliyesi veya Seyrantepe’de bir komplekse gidiyorsanız kapı ve blok bilgisini rotaya ekleyin.
+Kartal|Anadolu|Soğanlık, Yakacık ve Dragos|Sahil ve Yakacık yönlerini ayırmak için mahalle belirtin. Hastane yolculuklarında giriş veya bölüm adı ekleyin.
+Küçükçekmece|Avrupa|Halkalı, Sefaköy ve Atakent|Halkalı’da tren garı, Marmaray ve mahalle adresini açıkça ayırın. Site alımlarında kapı numarasını ekleyin.
+Maltepe|Anadolu|Küçükyalı, İdealtepe ve Cevizli|Sahil etkinliklerinde buluşma girişini, Marmaray çevresinde istasyon adını belirtin. Cevizli yönünde mahalle ve bina bilgisini birlikte yazın.
+Pendik|Anadolu|Kurtköy, Kaynarca ve Sabiha Gökçen Havalimanı|Sabiha Gökçen alımında uçuş bilgisi ve terminal buluşma noktasını hazırlayın. Pendik YHT için istasyon adını açıkça belirtin.
+Sancaktepe|Anadolu|Samandıra, Sarıgazi ve Yenidoğan|Samandıra’da metro, otogar ve mahalle adresi farklı noktalar olabilir. Buluşacağınız yerin tam adını yazın.
+Sarıyer|Avrupa|İstinye, Tarabya ve Maslak|Sahil hattı ile Maslak’taki ofis rotaları ayrılır. Kampüs veya plaza yolculuklarında giriş adı ekleyin.
+Silivri|Avrupa|Selimpaşa, Gümüşyaka ve Silivri merkez|İlçe merkezi dışındaki yazlık veya tesis alımlarında mahalle, açık adres ve dönüş saati yolculuk planına yardımcı olur.
+Sultanbeyli|Anadolu|Abdurrahmangazi, Hasanpaşa ve Mehmet Akif|Merkez ile TEM bağlantısı yakınındaki alımları ayırmak için cadde, mahalle ve bina bilgisi kullanın.
+Sultangazi|Avrupa|Cebeci, Gazi ve Esentepe|Cebeci veya Gazi yönünde benzer sokak adları için mahalle ve posta adresini birlikte yazın.
+Şile|Anadolu|Ağva, Kumbaba ve Şile merkez|Ağva ve Şile merkez ayrı varış noktalarıdır. Konaklama tesisi adını ve dönüş saatini yolculuk planına ekleyin.
+Şişli|Avrupa|Mecidiyeköy, Nişantaşı ve Bomonti|Mecidiyeköy’de metro çıkışı veya cadde yönünü, Nişantaşı ve Bomonti’de bina girişini belirtin.
+Tuzla|Anadolu|İçmeler, Aydınlı ve Tuzla Marina|Tersane veya sanayi tesisi yolculuklarında güvenlik girişini, marina için buluşma kapısını yazın.
+Ümraniye|Anadolu|Dudullu, Çarşı ve Yamanevler|Dudullu’da sanayi tesisi ve metro istasyonunu ayırın. İş merkezi alımlarında blok ve giriş adı ekleyin.
+Üsküdar|Anadolu|Kuzguncuk, Çengelköy ve Altunizade|İskele, Marmaray ve sahil buluşmaları için belirli bir çıkış seçin. Altunizade’de tesisin kapı adını yazın.
+Zeytinburnu|Avrupa|Kazlıçeşme, Merkezefendi ve Seyitnizam|Kazlıçeşme’de sahil, istasyon ve etkinlik alanı farklı girişlere sahiptir. Buluşma noktasını adıyla belirtin.

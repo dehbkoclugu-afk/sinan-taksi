@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dehbkoclugu-afk.github.io/sinan-taksi/sitemap.xml

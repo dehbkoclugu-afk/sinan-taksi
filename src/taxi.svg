@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440">
+<defs>
+  <linearGradient id="paint" x2="0" y2="1"><stop stop-color="#525457"/><stop offset=".43" stop-color="#1d1e20"/><stop offset="1" stop-color="#0b0b0c"/></linearGradient>
+  <linearGradient id="glass" x2=".8" y2="1"><stop stop-color="#5c676c"/><stop offset="1" stop-color="#171b1d"/></linearGradient>
+  <linearGradient id="taxi" x2="0" y2="1"><stop stop-color="#ffe28c"/><stop offset=".55" stop-color="#ffc627"/><stop offset="1" stop-color="#d28e00"/></linearGradient>
+  <radialGradient id="shadow"><stop stop-color="#000" stop-opacity=".9"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <pattern id="check" width="24" height="24" patternUnits="userSpaceOnUse"><path fill="#101011" d="M0 0h12v12H0zm12 12h12v12H12z"/></pattern>
+</defs>
+<g fill="none" stroke="#ffc627" stroke-opacity=".24">
+ <path d="M18 112h106l40-37h78l35 35h107l65-65h94l52 52h104M15 134h117l41-37h66l35 35h121l66-66h72l52 52h114M51 356h618M91 379h540"/>
+ <circle cx="164" cy="75" r="5" fill="#ffc627"/><circle cx="449" cy="45" r="5" fill="#ffc627"/><circle cx="595" cy="97" r="5" fill="#ffc627"/>
+</g>
+<ellipse cx="355" cy="351" rx="343" ry="53" fill="url(#shadow)"/>
+<path d="M50 278Q54 254 86 245l100-23 62-66q21-22 65-24h132q35 1 55 18l86 70 57 13q33 7 41 35l9 42q2 20-28 26H77q-31-5-33-24z" fill="url(#paint)" stroke="#656567" stroke-width="2"/>
+<path d="M192 221l63-59q15-15 54-17h133q26 1 44 15l74 61z" fill="url(#glass)" stroke="#85898a"/>
+<path d="M307 145l-18 76m118-76 9 76m68-62 42 62" fill="none" stroke="#121415" stroke-width="9"/>
+<path d="M207 213l61-48m48-14h91m15 1h18" fill="none" stroke="#b1b8b9" stroke-opacity=".55" stroke-width="2"/>
+<path d="M344 132l5-22q1-5 7-5h62q7 0 9 5l6 22z" fill="url(#taxi)" stroke="#ffd664"/>
+<text x="389" y="124" text-anchor="middle" fill="#121212" font-family="sans-serif" font-size="13" font-weight="900" letter-spacing="3">TAKSİ</text>
+<path d="M59 262q21-17 77-22h494q26 6 39 24l3 19H54z" fill="url(#taxi)"/>
+<path d="M181 269h351v12H181z" fill="url(#check)" opacity=".72"/>
+<path d="M77 255h61l-20 13H59zm553-1h20l16 13h-43z" fill="#fff2bb"/>
+<path d="M284 224l-10 84m142-84 8 85m100-84 26 74M193 310h357" fill="none" stroke="#767677" stroke-opacity=".48"/>
+<path d="M304 247h23m117 0h23" stroke="#141414" stroke-width="3" stroke-linecap="round"/>
+<text x="361" y="260" text-anchor="middle" fill="#181511" font-family="sans-serif" font-size="10" font-weight="900" letter-spacing="1.7">SİNAN TAKSİ</text>
+<g fill="#121212" stroke="#343536" stroke-width="3"><circle cx="151" cy="326" r="45"/><circle cx="579" cy="326" r="45"/></g>
+<g fill="#353638" stroke="#929496" stroke-width="2"><circle cx="151" cy="326" r="28"/><circle cx="579" cy="326" r="28"/></g>
+<g fill="none" stroke="#b2b4b5" stroke-width="4"><path d="M151 303v46m-22-30 44 14m-36 12 27-38"/><path d="M579 303v46m-22-30 44 14m-36 12 27-38"/></g>
+<g fill="#18191a"><circle cx="151" cy="326" r="7"/><circle cx="579" cy="326" r="7"/></g>
+</svg>
